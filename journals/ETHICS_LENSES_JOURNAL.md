@@ -64,6 +64,19 @@ By considering these lenses throughout the development lifecycle, teams can crea
   - [CM] [Utilitarian Lens] [Maximise User Benifit] Use TDD to ensure the system consistently delivers a positive experience to users.
   - [CM] [Common Good Lens] [Team Morale is a Common Good] We should foster good team morale though regular, open, honest communicaton through Daily Standups, and using MS teams. Transparency and openess, help team members to feel heard, and understood, and help to align the team to a common set of goals, and foster a common understanding of their work, and the challenges they face.
 
+  - 
+  - [SC] Reflections on how the lenses may apply to our team:
+  - [SC] [Rights Lens] [Autonomy] As I work full-time with weekends working and Thursdays and Fridays as my dedicated off days, it’s important for me to maintain a balance between my personal time and work commitments. My 
+     team respects my autonomy, allowing me to manage my individual tasks efficiently while considering my work-life balance.
+  - [SC] [Virtue Lens] [Honesty] I value the open and honest communication we maintain in our team. Regular updates during standups allow everyone to stay aligned on individual tasks, fostering a culture of trust and 
+      accountability. Transparency in our work ensures that we all feel supported in achieving our goals.
+  - [SC] [Justice Lens] [Fairness] Even as we work on individual tasks, the team maintains a fair and collaborative environment. There’s a clear understanding that each member is accountable for their part of the work, 
+      and we strive to ensure that everyone’s contributions are valued and workloads are distributed equitably, considering individual circumstances.
+  - [SC] [Utilitarian Lens] [Maximizing User Benefit] The use of Test-Driven Development (TDD) is a key practice that aligns with delivering the best possible outcomes for users. By focusing on producing high-quality, 
+     reliable software through TDD, we ensure that the product we deliver maximizes user benefits and satisfies their needs effectively.
+  - [SC] [Common Good Lens] [Team Collaboration] Our team’s high level of collaboration helps maintain good morale and motivation, even when working remotely. Regular communication through standups and MS Teams ensures 
+     that we stay connected, share progress, and feel aligned towards achieving our collective goals.
+
 ---
 
 ### Journal Entries 
