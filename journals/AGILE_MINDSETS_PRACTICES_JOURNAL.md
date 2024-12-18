@@ -205,13 +205,28 @@ Ran all test suites.
 ---
 
 ### Journal Entries
-### **Date:** Mon 16, Dec, 2024
+### **Date:** Mon 18, Dec, 2024
 
   - [CM] 
   - [CR] 
-  - [SC] 
+  - [SC] [Value - Individuals and Interactions Over Processes and Tools] Participated in discussions on MS Teams to clarify doubts and share ideas.
+          Collaborated with team members during daily standups to align on tasks and address blockers.
+  - [SC]  [Value - Working Software Over Comprehensive Documentation] Started documenting project processes and features by referencing the rubrics.Created an initial README document to provide an overview of the project,           including setup instructions and team roles.
+  - [SC] [Practice - Test-Driven Development (TDD)] Worked on understanding and running the TDD test cases shared by the team lead., Reviewed the output of Jest tests and verified that the environment setup is working               correctly for my local development.
+  -  PASS  Tests/auctionItem.test.js
+      POST /search
+    √ should return an empty array if no items match the search query (95 ms)                                                                                                                           
+    √ should handle errors gracefully (6 ms)                                                                                                                                                            
+    √ should return results when matching items exist (23 ms)                                                                                                                                           
+                                                                                                                                                                                                        
+    Test Suites: 1 passed, 1 total                                                                                                                                                                          
+    Tests:       3 passed, 3 total                                                                                                                                                                          
+    Snapshots:   0 total
+    Time:        1.325 s, estimated 2 s
 
----
+  - [SC] [Practice - Research and Collaboration] Explored more about database options to suggest enhancements for the current MongoDB setup.Assisted in planning and updating JIRA tasks based on team discussions.
+  - [Sc][Practice - Sprint Planning] Contributed to backlog grooming by suggesting tasks that align with our project goals.Took ownership of smaller tasks to ensure timely progress and reduce team dependencies.
+--- 
 ---
 
 ### Journal Entries 
