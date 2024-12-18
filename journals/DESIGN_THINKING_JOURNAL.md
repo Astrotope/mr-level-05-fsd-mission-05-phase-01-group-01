@@ -101,7 +101,11 @@ By integrating Design Thinking with your Agile process, you can build an API tha
 
   - [CM] 
   - [CR] 
-  - [SC] 
+  - [SC] [Test - TDD] Reviewed the importance of TDD while testing API endpoints. Focused on ensuring the reliability and consistency of user-facing functionalities by emphasizing robust test coverage.
+  - [SC]  [Test - Research on BDD] Explored Behavior Driven Development (BDD) to align software functionalities with user stories. Identified scenarios where user stories could be integrated into test cases for better     
+           validation of expected behaviors.
+  - [SC] [Prototype - MVP Approach] Captured the iterative journey of MVP development, showcasing how continuous testing and actionable feedback transform standalone components into a seamless, fully functional solution 
+          aligned with user needs.
 
 ---
 ---
