@@ -10,8 +10,16 @@ program
 .description('Add a new item')
 .alias('a')
 .action((title, description, start_price, reserve_price) => {
-    addItem({title, description, start_price, reserve_price})
-})
+    addItem({ title, description, start_price, reserve_price })
+        .then(() => {
+            console.log('Item added successfully!');
+            process.exit(); // Stop the program after the command is executed
+        })
+        .catch((error) => {
+            console.error('Error adding item:', error);
+            process.exit(1); // Stop the program with an error code
+        });
+});
 
 
 program
@@ -20,7 +28,19 @@ program
 .alias('f')
 .action((name) => {
     findItem(name)
-})
+        .then((items) => {
+            if (items.length > 0) {
+                console.log('Items found:', items);
+            } else {
+                console.log('No items found.');
+            }
+            process.exit(); // Stop the program after the command is executed
+        })
+        .catch((error) => {
+            console.error('Error finding item:', error);
+            process.exit(1); // Stop the program with an error code
+        });
+});
 
 // A command to import initial items from a JSON file
 program
