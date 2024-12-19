@@ -51,6 +51,26 @@ A Node.js command-line utility for adding and finding auction items data into a 
     node commands.js import items.json
     ```
 
+## How it Works
+
+The CLI tool uses the MongoDB driver to interact with the database. It provides a command-line interface to add, find, and import data.
+
+1. index.js
+
+   - Entry point for the CLI tool.
+   - Initializes the MongoDB connection and imports the command module.
+   - Exports the `addItem` and `findItem` functions for adding and finding items.
+
+2. commands.js
+
+   - Command-line interface for adding, finding, and importing items.
+   - Imports the `addItem`, `findItem`, and `importItems` functions from `index.js`.    
+   - Provides a user-friendly interface for interacting with the CLI tool.
+
+3. item.js
+
+   - Defines the `Item` schema for storing auction items in the database.
+
 ## Author
 
 - Christopher Ryan (christophermissionready)
