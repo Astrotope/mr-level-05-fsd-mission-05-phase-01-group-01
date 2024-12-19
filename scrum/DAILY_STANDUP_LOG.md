@@ -111,7 +111,7 @@
   - [CM] Looked at Milvus vector DB, and vector embedding with Google text-embedding-001 model
   - [CM] Tried to get Milvus DB to start in Docker. Some issue with current build. Product didn't feel stable/reliable
   - [CM] Also had to have a closer look at how the text-embedding-001 model returns it's vectors
-  - [CR] 
+  - [CR] Completed CLI tool, had to reinstall mongoDB but working now :)
   - [CR] 
   - [CR] 
 
@@ -125,19 +125,19 @@
   - [CM] Created dataset for testing semantic search, with semantic variations of bike, and wood/wooden auction items.
   - [CM] Semantic search up and runnnig. YEAH! Created some extra query parameters for no. of items returned, and search mode.
   - [CM] Updated tests, and made sure they were passing. Updated documentation. Pushed code to GitHub.
-  - [CR] 
-  - [CR] 
+  - [CR] Working on documentation/readme for CLI
+  - [CR] Uploading to shared git repo
   - [CR] 
 
 - **Blockers:**  [What is blocking me?] 
   - [SC] None
   - [CM] None.
-  - [CR] 
+  - [CR] None
 
 - **Updates/Notes**: 
   - [SC] 
   - [CM] My updated dataset is available if you want to use it.
-  - [CR] 
+  - [CR] All done in terms of coding
 
 - **Action Items**: 
   - [SC] 
