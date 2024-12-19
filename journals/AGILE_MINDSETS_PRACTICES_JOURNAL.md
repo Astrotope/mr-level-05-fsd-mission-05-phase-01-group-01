@@ -201,6 +201,10 @@ Ran all test suites.
 
   - [CM] [Practice - Sprint Planning] We have created a backlog in JIRA for our first sprint, with Epics for each developer, and and epic for team task. We will review the backlog after our Daily Standup at 8:30pm tonight, and decide what goes into this weeks sprint. This will ensure that we are aligned on our sprint goals and backlog priorities for this sprint.
 
+  - [CR] [Value - Individuals and Interactions Over Processes and Tools] Meeting with other developers to share ideas and challenges, and to work together to resolve them. I ran into a lot of errors and asking Cameron and Swaroop how to handle them was much more helpful than trying to debug it all by myself. There are many recommendations that were given to make problems go away.
+
+  - [CR] [Value - Working Software Over Comprehensive Documentation] While bad documentation is a problem, it's not as bad as bad code. We can use tools like TDD to make our software self-documenting, and to make it easy to understand. We can also use tools to generate documentation for us. I focused on making our software self-documenting, and using tools to generate documentation for us. So we can focus on working software, and not on comprehensive documentation. TDD allows me to make sure that my code is working correctly, and to make sure that my code is easy to understand.
+
 ---
 ---
 
