@@ -14,8 +14,8 @@ A Node.js command-line utility for managing auction items in a MongoDB database.
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-name>
+   git clone git clone https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-group-01.git
+   
    ```
 
 2. **Install dependencies:**
