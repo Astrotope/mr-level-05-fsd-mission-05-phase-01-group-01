@@ -131,7 +131,7 @@
 
 - **Blockers:**  [What is blocking me?] 
   - [SC] None
-  - [CM] None.
+  - [CM] None
   - [CR] None
 
 - **Updates/Notes**: 
@@ -149,35 +149,36 @@
 ### Standup Notes  
 #### **Date:** Thu 19, Dec, 2024
 
-#### **Start Time** 
-#### **End Time** 
+#### **Start Time** 07:26PM
+#### **End Time** 07:35PM
 
 - **Yesterday:**  [What I completed?]
   - [SC] 
   - [SC] 
-  - [SC] 
+  - [SC] Used shared dataset, and seeded it into MongoDB to test API using Postman.
   - [CM] 
-  - [CM] 
-  - [CM] 
-  - [CR] 
+  - [CM] Tidied up documentation, pushed it to GitHub.
+  - [CM] One-to-one with trainer.
+  - [CR] Completed CLI Tool
   - [CR] 
   - [CR] 
 
 - **Today:**  [What I'm working on today?]
-  - [SC] 
-  - [SC] 
-  - [SC] 
+  - [SC] Clonded GitHub repo.
+  - [SC] Update all Journals today - Agile, Desgin Thinkning, Ethics Lenses
+  - [SC] Completed CLI Tool, and obtained search results.
+  - [SC] One-to-one with trainer
   - [CM] 
-  - [CM] 
-  - [CM] 
-  - [CR] 
-  - [CR] 
-  - [CR] 
+  - [CM] Had break day, and worked on Resume.
+  - [CM] Fixed-up the JSON output of the search so that the mongo and semantic matched.
+  - [CR] Seeded data and got search results.
+  - [CR] Working on Journals - Completed Agile Mindset Practices.
+  - [CR] One-to-one with trainer.
 
 - **Blockers:**  [What is blocking me?] 
-  - [SC] 
-  - [CM] 
-  - [CR] 
+  - [SC] None
+  - [CM] None
+  - [CR] None
 
 - **Updates/Notes**: 
   - [SC] 
@@ -185,7 +186,7 @@
   - [CR] 
 
 - **Action Items**: 
-  - [SC] 
+  - [SC] Attend Design Walkthrough with UX team for Phase 02 of Mission 05
   - [CM] 
   - [CR] 
 
