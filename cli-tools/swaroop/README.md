@@ -154,5 +154,5 @@ auction-cli --help
 - **Running the application** is done with `npm start`, which will execute the `server.cjs` file.
 - You can still use the `auction-cli` commands like `search`, `list`, `add`, `update`, and `delete` from the terminal.
 
-Let me know if anything else needs to be adjusted!
+
 ```
